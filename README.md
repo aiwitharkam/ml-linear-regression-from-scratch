@@ -17,10 +17,12 @@ This project implements Linear Regression using just Python and NumPy — no mac
 
 
 ## 🔧 How to Run
--`Copy`
--`Edit`
--`pip install -r requirements.txt`
--`jupyter notebook`
+
+- `copy`
+- `Edit`
+- `pip install -r requirements.txt`
+- `Ljupyter notebook`
+
 
 ## 📚 Skills Practiced
 
