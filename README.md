@@ -15,10 +15,21 @@ This project implements Linear Regression using just Python and NumPy — no mac
 - `requirements.txt`: Python packages list
 - `notebook/`: (To be added later)
 
-## 🔧 How to Run:
-```bash
-pip install -r requirements.txt
-jupyter notebook
 
-##📚 Skills Practiced:
-Python • NumPy • Gradient Descent • Data Visualization
+## 🔧 How to Run
+-`Copy`
+-`Edit`
+-`pip install -r requirements.txt`
+-`jupyter notebook`
+
+## 📚 Skills Practiced
+
+- `Python`
+- `NumPy`
+- `Gradient Descent`
+- `Linear Algebra`
+- `Data Visualization (matplotlib)`
+- `Jupyter Notebook`
+
+
+
