@@ -21,7 +21,7 @@ This project implements Linear Regression using just Python and NumPy — no mac
 - `copy`
 - `Edit`
 - `pip install -r requirements.txt`
-- `Ljupyter notebook`
+- `jupyter notebook`
 
 
 ## 📚 Skills Practiced
@@ -29,9 +29,7 @@ This project implements Linear Regression using just Python and NumPy — no mac
 - `Python`
 - `NumPy`
 - `Gradient Descent`
-- `Linear Algebra`
 - `Data Visualization (matplotlib)`
-- `Jupyter Notebook`
 
 
 
